@@ -1,4 +1,5 @@
 import { PencilLine } from "phosphor-react";
+
 import userCover from "../assets/user-cover.png";
 import { Avatar } from "./Avatar";
 
